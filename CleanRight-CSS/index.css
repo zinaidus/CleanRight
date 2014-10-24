@@ -1,0 +1,159 @@
+html, body{
+	font-family:"Open Sans", sans-serif;
+	font-size:18px;
+}
+.logo{
+	margin-top:30px;
+}
+.lead{
+	font-size:35px;
+	color:#dc4d4b;
+	font-weight: bold;
+	margin-left:-40px;
+	margin-top: 43px;
+}  
+.icon{
+	background-color: url("../assets/img/icon-phone.png")no-repeat;
+}  
+
+.icon-phone:before{
+    width:40px;
+    height:40px;
+    line-height: 40px;
+    background-color: #37a8e8;
+    border-radius: 50px;
+    color:blue;
+}
+
+.container_12{
+	background-color:#f9faf7;
+}
+
+.tel{
+	text-decoration: none;
+    font-size: 22px;
+    color:#20242e;
+}
+.bold{
+	font-weight: bold;
+}
+.schedule{
+	font-size: 13px;
+}
+
+
+.colored{
+	color:#2484c6;
+
+}
+
+
+.number{
+	font-size:120px;
+	font-weight: bold;
+	color:#fdfdfd;
+}
+
+.title-bg-word{
+   font-family: "Open Sans Light";
+   font-size:71px;
+   line-height: 57px;
+   color:#2b80bf;
+   
+}
+
+.subtitle{
+   font-family: "Open Sans Bold";
+   font-size:16px;
+   color:#e85250;
+
+}
+.descr{
+	color:#000;
+	font-size: 65px;
+}
+
+.menu {
+	list-style-type: none; 
+	margin:0;
+	float: right;
+	font-size: 13px;
+	line-height: 48px;
+	
+}
+
+.menu li{
+     display:inline-block;
+     margin:0;
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+.menu li a{
+	text-decoration:none;
+	color:#000;
+	padding:15px 15px;
+	display:inline-block;
+	font-size:13px; 
+	line-height:48px;
+
+}
+.menu li a:hover{
+    color:#0078cb;
+    text-decoration: underline;
+ 
+}
+.menu li a:active{
+	background-color:#; 
+	
+
+}
+.btn-order{
+	width:170px;
+	height:44px;
+	background-color: #e65856;
+	font-size: 13px;
+	line-height: 44px;
+	text-transform:uppercase;
+	text-align: center;
+	border-radius:5px;
+	display: inline-block;
+
+}
+.btn-order a{
+	text-decoration: none;
+	color:#FFF;
+	 
+
+}
+.btn-order:hover{
+	background-color:#f8605e; 
+
+}
+
+.banner{
+	background: url("../assets/pics/background-img.png") 600px 10px no-repeat,
+	            url("../assets/pics/house.png") 200px 10px no-repeat,
+	            url("../assets/pics/car.png") 100px 10px no-repeat;
+	width:100%;
+	height: 670px;
+}
+
+.bubble{
+	font-size: 13px;
+	color:#FFF;
+
+}
+
+.bubble:before{
+	width:113px;
+	height:113px;
+	background-color:#0089d8;
+    border-radius: 50px;
+}
+
+
+
+
+
+
