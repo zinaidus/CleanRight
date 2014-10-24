@@ -3,14 +3,13 @@ html, body{
 	font-size:18px;
 }
 .logo{
-	margin-top:30px;
+	
 }
 .lead{
 	font-size:35px;
 	color:#dc4d4b;
 	font-weight: bold;
-	margin-left:-40px;
-	margin-top: 43px;
+	
 }  
 .icon{
 	background-color: url("../assets/img/icon-phone.png")no-repeat;
@@ -152,7 +151,9 @@ html, body{
     border-radius: 50px;
 }
 
-
+.float-right{
+	float: right;
+}
 
 
 
